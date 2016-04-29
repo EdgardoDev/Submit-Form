@@ -1,5 +1,5 @@
  var main = function() {
-        $('form').submit(function() {
+        $('form').submit(function() { //Here we use the .submit method
             var firstName = $('#first').val();
             var lastName = $('#last').val();
             var email = $('#email').val();
