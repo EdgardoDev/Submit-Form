@@ -4,4 +4,4 @@ This simple form use the .submit event to make an error message appear when the 
 
 ## Live Demo
 
-You can see the live demo [HERE](http://edgardopinto-escalierscoffe.github.io/Submit-Form/)
+You can see the live demo [HERE](http://edgardopinto-escalier.github.io/Submit-Form/)
